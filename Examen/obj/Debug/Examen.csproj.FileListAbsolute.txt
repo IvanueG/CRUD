@@ -1,0 +1,11 @@
+C:\Users\ivanu\Desktop\Examen\Examen\bin\Debug\Examen.exe.config
+C:\Users\ivanu\Desktop\Examen\Examen\bin\Debug\Examen.exe
+C:\Users\ivanu\Desktop\Examen\Examen\bin\Debug\Examen.pdb
+C:\Users\ivanu\Desktop\Examen\Examen\obj\Debug\Examen.csproj.AssemblyReference.cache
+C:\Users\ivanu\Desktop\Examen\Examen\obj\Debug\Examen.csproj.SuggestedBindingRedirects.cache
+C:\Users\ivanu\Desktop\Examen\Examen\obj\Debug\Examen.Form1.resources
+C:\Users\ivanu\Desktop\Examen\Examen\obj\Debug\Examen.Properties.Resources.resources
+C:\Users\ivanu\Desktop\Examen\Examen\obj\Debug\Examen.csproj.GenerateResource.cache
+C:\Users\ivanu\Desktop\Examen\Examen\obj\Debug\Examen.csproj.CoreCompileInputs.cache
+C:\Users\ivanu\Desktop\Examen\Examen\obj\Debug\Examen.exe
+C:\Users\ivanu\Desktop\Examen\Examen\obj\Debug\Examen.pdb
